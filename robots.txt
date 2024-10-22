@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cabstong.github.io/cabstong.cabstong
+Sitemap: https://cabstong.github.io/app/cabstong.cabstong
+Sitemap: https://cabstong.github.io/assets/cabstong.cabstong
+Sitemap: https://cabstong.github.io/css/cabstong.cabstong
+Sitemap: https://cabstong.github.io/includes/cabstong.cabstong
+Sitemap: https://cabstong.github.io/item/cabstong.cabstong
+Sitemap: https://cabstong.github.io/src/cabstong.cabstong
